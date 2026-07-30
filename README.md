@@ -1,9 +1,13 @@
 # ✍️ Handwritten Digit Recognition using Artificial Neural Networks (ANN)
 
 **Author:** Gargi
+
 **Registration Number:** 23BCE11333
+
 **Application Number:** IN26011023
+
 **Batch Number:** 2B
+
 **Email ID:** [gargi.23bce11333@vitbhopal.ac.in](mailto:gargi.23bce11333@vitbhopal.ac.in)
 
 ---
